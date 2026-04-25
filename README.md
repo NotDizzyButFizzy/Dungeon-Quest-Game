@@ -1,19 +1,5 @@
 # Dungeon Quest Game
 
-A browser-based dungeon adventure game built with HTML, CSS, and JavaScript, where the player explores connected rooms, collects items, defeats enemies, and unlocks the final treasure. This project was created as a small interactive game and is now being organised and documented as a team-friendly GitHub repository so that new contributors can quickly understand how it works and where improvements can be made.
-
-![HTML5](https://img.shields.io/badge/HTML5-Structure-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Game_Logic-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Status](https://img.shields.io/badge/Status-In_Progress-2ea043?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-Web-121013?style=for-the-badge)
-
-**Tags:** HTML, CSS, JavaScript, browser game, dungeon game, text adventure, beginner project, DOM manipulation, GitHub Pages
-
----
-
-## Introduction
-
 Dungeon Quest is a simple web-based dungeon exploration game. The player moves through rooms, collects useful items, fights enemies, and eventually unlocks access to the treasure room. The game is designed around DOM manipulation and basic game-state management in JavaScript, making it a good project for practising front-end fundamentals and interactive logic.
 
 This repository is written and structured so that someone new joining the project can understand:
