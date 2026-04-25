@@ -51,13 +51,6 @@ This project uses:
 
 ---
 
-## Keyboard Shortcuts
-
-At the moment, the game primarily uses **buttons** for interaction and does **not yet include dedicated keyboard controls**.
-
-### Current input method
-- Use on-screen buttons to move, inspect, collect items, and perform actions
-
 ### Planned keyboard controls
 These are good candidates for future improvement:
 
